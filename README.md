@@ -1,3 +1,8 @@
+Starting on git boiz
+man this whole independent study session is a lot of work i mean for real
+like way more hw than ive ever been assigned im just assigning to myself
+it's working tho so far so cant complain much
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
